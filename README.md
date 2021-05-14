@@ -10,3 +10,4 @@ https://lordicon.com/
 
 ### Moving Letters | Text animated with JavaScript & anime.js
 https://tobiasahlin.com/moving-letters/
+https://tobiasahlin.com/typesource/
