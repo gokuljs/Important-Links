@@ -17,4 +17,5 @@ https://www.minimamente.com/project/magic/
 
 
 ### svg waves 
-https://getwaves.io/
+https://getwaves.io/  \
+https://haikei.app/
