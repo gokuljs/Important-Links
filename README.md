@@ -14,3 +14,7 @@ https://tobiasahlin.com/typesource/
 
 ### Animations
 https://www.minimamente.com/project/magic/
+
+
+### svg waves 
+https://getwaves.io/
